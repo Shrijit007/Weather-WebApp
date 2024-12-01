@@ -18,7 +18,7 @@ Welcome to **Weather WebApp**, a modern and user-friendly weather application th
 
 ## Technologies Used 🛠️  
 
-- **Frontend**: React.js  
+- **Frontend**: HTML
 - **Backend**: RESTful APIs (OpenWeatherMap or similar)  
 - **Styling**: CSS, Bootstrap/Material-UI  
 - **Hosting**: Netlify  
