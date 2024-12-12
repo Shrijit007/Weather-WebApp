@@ -5,7 +5,7 @@ Welcome to **Weather WebApp**, a modern and user-friendly weather application th
 🌐 **Live Demo**: [Weather WebApp](https://weatherwebapp-shrijit.netlify.app/#/current-location)  
 
 # Preview
-<img src="https://github.com/Shrijit007/Weather-WebApp/blob/main/Image/5c6bc36f-2b98-4734-9dab-eaf3000ec985.jpg?raw=true">
+<img src="https://github.com/Shrijit007/Weather-WebApp/blob/main/screenshots/ss-front.png?raw=true">
 
 ## Features 🚀  
 
